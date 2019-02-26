@@ -1,10 +1,7 @@
 Once a man named barry went to the store. It was just a normal day, nothing extraordinary, until suddenly, a woman dropped her bag all the way across the store, and Barry somehow caught it in a flash! It was this day that Barry discovered that he had super speed; he was the fastest man on Earth. 
-<<<<<<< HEAD
-However, he was not the only one with this ability. As he learned about this power, in another dimension a criminal named Larry was robbing a bank. As he was grabbing all the cash, the cops arrived and started shooting at him. Thinking that he was going to get hit, in a flash he dodged all the bullets and ended up at his home with all the cash. He also discovered his super fast ability and now wanted to steal more banks.
 
-Barry used his powers for good in his dimension and became a superhero. Larry became a super villain in the other dimension. Eventually, inter-dimensional travel is invented and Barry and Larry meet each other while the latter is robbing an inter-dimensional bank.
-=======
 However, he was not the only one with this ability. As he learned about this power, in another dimension a criminal named Larry was robbing a bank. As he was grabbing all the cash, the cops arrived and started shooting at him. Thinking that he was going to get hit, in a flash he dodged all the bullets and ended up at his home with all the cash. He also discovered his super fast ability and now wanted to steal more banks. 
 
 But things got a lot more confusing for Larry when he realized that the home he was in looked like his own, but really wasn't his. That's when he discovered that this was not just a different home or a planet, a different dimension itself. Larry had run so fast that he had crossed the dimensional barrier and entered Barry's world.
->>>>>>> 32d01b3e6086ff18d6e20d997366c881588b3ba2
+
+Barry felt a disturbance in the force and knew that someone had stolen a lot of money and entered his dimension. With his newly discovered powers, he found where Larry was and detained him for stealing money. But when the police arrived, they were confused as no banks in Barry's dimension had been robbed.
